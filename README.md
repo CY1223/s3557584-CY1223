@@ -1,6 +1,7 @@
 # s3557584-CY1223Algorithms-and-Analysis-Assignment-Maze-Generator
 Maze generator
 Solution by Ching(s3557584@student.rmit.edu.au)
+
 Description
 
 This assignment has been coded in Java.
